@@ -80,9 +80,9 @@ Only core KPIs were selected to maintain clarity and business relevance.
 ---
 
 ## 📁 Output Structure
-orders_data_clean.parquet/
-├── part-00000-xxxx.snappy.parquet
-└── _SUCCESS
+orders_data_clean.parquet/   
+├── part-00000-xxxx.snappy.parquet   
+└── _SUCCESS   
 
 ---
 
